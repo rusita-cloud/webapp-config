@@ -14,5 +14,5 @@ spec:
         app: webapp
     spec:
       containers:
-        - image: rusita/webapp:20260315094334_2
+        - image: rusita/webapp:20260315095134_3
           name: webapp-container
